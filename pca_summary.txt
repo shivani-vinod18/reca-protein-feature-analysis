@@ -1,0 +1,6 @@
+PCA Summary
+Number of proteins: 20
+Number of features: 27
+PC1 explained variance: 0.2067
+PC2 explained variance: 0.1441
+Combined PC1+PC2 variance: 0.3509

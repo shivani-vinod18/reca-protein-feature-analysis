@@ -1,0 +1,6 @@
+1. Extremophile RecA proteins showed modest but directional shifts in sequence-derived composition compared with controls.
+2. Hydrophobic fraction showed the strongest mean difference between the two groups in this dataset.
+3. PCA of the RecA feature matrix showed partial structure, with some extremophiles occupying more distinct regions while others overlapped with controls.
+4. The results suggest that RecA may carry weak-to-moderate environmental signal, but not a clean universal extremophile signature.
+5. Different classes of extremophiles did not collapse into one uniform cluster, suggesting heterogeneous molecular adaptation patterns.
+6. A broader panel of stress-relevant proteins would likely provide stronger separation than RecA alone.

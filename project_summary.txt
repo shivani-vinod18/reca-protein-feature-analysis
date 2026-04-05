@@ -1,0 +1,6 @@
+Project Title:
+Can Stress-Survival Proteins Carry an Extremophile Signature?
+Sequence-Feature Analysis of Bacterial RecA Proteins
+
+Summary:
+This project explored whether RecA protein sequences from extremophile bacteria carry detectable sequence-derived compositional patterns when compared with non-extremophile controls. I curated a dataset of 20 bacterial RecA proteins from NCBI Protein, including 10 extremophiles and 10 controls, and extracted sequence-derived features such as length, acidic/basic residue fraction, hydrophobic fraction, aromatic fraction, glycine fraction, proline fraction, and full amino acid composition. I then compared mean feature values between groups and used PCA to visualize whether the proteins showed structure in reduced-dimensional feature space. The results showed modest but directional compositional differences, with hydrophobic fraction showing the strongest average shift, while the PCA suggested partial separation rather than a clean universal extremophile signature. This project was designed to connect protein-level computational analysis with questions about stress survival and astrobiology.

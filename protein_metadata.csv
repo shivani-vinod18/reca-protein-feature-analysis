@@ -1,0 +1,21 @@
+organism,category,environment_type,filename
+Deinococcus radiodurans,extremophile,radiation-resistant,deinococcus_reca.fasta
+Rubrobacter radiotolerans,extremophile,radiation-resistant,rubrobacter_reca.fasta
+Thermus thermophilus,extremophile,thermophile,thermus_reca.fasta
+Thermotoga maritima,extremophile,thermophile,thermotoga_reca.fasta
+Geobacillus stearothermophilus,extremophile,thermophile,geobacillus_reca.fasta
+Halomonas elongata,extremophile,halophile,halomonas_reca.fasta
+Salinibacter ruber,extremophile,halophile,salinibacter_reca.fasta
+Acidithiobacillus ferrooxidans,extremophile,acidophile,acidithiobacillus_reca.fasta
+Alicyclobacillus acidocaldarius,extremophile,acidophile,alicyclobacillus_reca.fasta
+Acidiphilium cryptum,extremophile,acidophile,acidiphilium_reca.fasta
+Escherichia coli,control,mesophile,ecoli_reca.fasta
+Bacillus subtilis,control,mesophile,bacillus_reca.fasta
+Pseudomonas putida,control,mesophile,pseudomonas_reca.fasta
+Caulobacter crescentus,control,mesophile,caulobacter_reca.fasta
+Streptomyces coelicolor,control,mesophile,streptomyces_reca.fasta
+Rhizobium leguminosarum,control,mesophile,rhizobium_reca.fasta
+Acinetobacter baylyi,control,mesophile,acinetobacter_reca.fasta
+Shewanella oneidensis,control,mesophile,shewanella_reca.fasta
+Corynebacterium glutamicum,control,mesophile,corynebacterium_reca.fasta
+Agrobacterium tumefaciens,control,mesophile,agrobacterium_reca.fasta

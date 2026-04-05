@@ -1,0 +1,21 @@
+organism,category,PC1,PC2
+Deinococcus radiodurans,extremophile,1.3457,-3.5521
+Rubrobacter radiotolerans,extremophile,3.7182,1.0722
+Thermus thermophilus,extremophile,5.7207,-0.8983
+Thermotoga maritima,extremophile,0.8738,2.5515
+Geobacillus stearothermophilus,extremophile,1.4035,3.001
+Halomonas elongata,extremophile,-0.6429,-1.6947
+Salinibacter ruber,extremophile,-2.1987,2.8021
+Acidithiobacillus ferrooxidans,extremophile,1.3354,1.015
+Alicyclobacillus acidocaldarius,extremophile,2.5099,2.0846
+Acidiphilium cryptum,extremophile,-0.501,-0.0843
+Escherichia coli,control,-3.2021,0.8194
+Bacillus subtilis,control,-1.1897,2.994
+Pseudomonas putida,control,-0.6744,-0.7076
+Caulobacter crescentus,control,0.4375,-0.3524
+Streptomyces coelicolor,control,1.9913,-3.137
+Rhizobium leguminosarum,control,-1.7123,-2.2672
+Acinetobacter baylyi,control,-3.9051,0.4038
+Shewanella oneidensis,control,-3.0947,-1.3369
+Corynebacterium glutamicum,control,-0.6236,-0.7431
+Agrobacterium tumefaciens,control,-1.5918,-1.97
